@@ -1,0 +1,12 @@
+{
+  "name": "msk-typescript-new-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "run": "npm run build && node index.js"
+},
+  "author": "Shontay Arrington",
+  "license": "ISC",
+  "description": ""
+}

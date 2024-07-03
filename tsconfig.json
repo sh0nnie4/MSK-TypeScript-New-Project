@@ -1,0 +1,13 @@
+{
+    "compilerOptions":{
+        "module": "CommonJS",
+        "strict": true,
+        "noImplicitAny": false,
+        "strictNullChecks": true,
+        "removeComments": true,
+
+    },
+    "files": [
+        "./index.ts"
+    ]
+}
